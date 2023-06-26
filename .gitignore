@@ -1,0 +1,37 @@
+# Visual Studio generated files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# NUnit test results
+[Tt]est[Rr]esult*/
+
+# F# test results
+*.VisualState.xml
+TestResult.xml
+
+# FAKE build output
+.fake/
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
